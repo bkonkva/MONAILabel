@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/OITDURKONKEB0/Desktop/repositories/MONAILabel/radiology/model/segmentation_laa/train_01/mlruns/1/9c8a2be76f624e5c83335c6cc33f03a2/artifacts
+end_time: 1693181613968
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9c8a2be76f624e5c83335c6cc33f03a2
+run_name: run_20230827_200315
+run_uuid: 9c8a2be76f624e5c83335c6cc33f03a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693181002346
+status: 3
+tags: []
+user_id: unknown

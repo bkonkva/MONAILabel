@@ -35,8 +35,9 @@ class Segmentation(TaskConfig):
 
         # Labels
         self.labels = {
-            "left_atrium": 1,
-            "left_atrial_appendage": 2,
+            "background": 1,
+            "left_atrium": 2,
+            "left_atrial_appendage": 3,
         }
 
         # Model Files
