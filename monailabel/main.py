@@ -24,6 +24,10 @@ from monailabel import print_config
 from monailabel.config import settings
 from monailabel.utils.others.generic import init_log_config
 
+import ssl
+
+ssl._create_default_https_context=ssl._create_unverified_context
+
 logger = logging.getLogger(__name__)
 
 
